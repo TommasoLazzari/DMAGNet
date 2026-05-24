@@ -34,7 +34,7 @@ DMAGNet/
 │
 ├── outputs/
 │
-├── reports/
+├── docs/
 │   └── DMAGNet_Report.pdf
 │
 └── README.md
